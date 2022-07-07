@@ -1,0 +1,8 @@
+<meta>
+	<min_mta_version client="1.5.5" server="1.5.3-9.03739" />
+	<info description="Explain resource" version="0.0.6" type="script" />
+    <script src="shared/utils_shared.lua" type="shared"  cache="false" />
+    <script src="server/notif_main.lua" type="server" />
+    <script src="server/notif_get.lua" type="server" />
+    <script src="client/notif_main.lua" type="client" cache="false" />
+</meta>
